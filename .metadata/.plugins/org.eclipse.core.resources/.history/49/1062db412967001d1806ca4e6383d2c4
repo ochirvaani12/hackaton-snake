@@ -1,0 +1,7 @@
+package Snake;
+
+import java.util.List;
+
+public class Predictor {
+	private List<int[]> history;
+}
